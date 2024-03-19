@@ -4,6 +4,6 @@
         {"id" : 3, "name" : "Spicy Tuna Roll", "price" : 11, "image" : "tunaroll.jpg", "description" : "Spicy sauce with tuna, avocado, cucumber"},
         {"id" : 4, "name" : "Mango Roll", "price" : 10, "image" : "mangoroll.jpg", "description" : "California base topped with Mango"},
         {"id" : 5, "name" : "Dynamite Roll", "price" : 13, "image" : "dynamiteroll.jpg", "description" : "Deep fried shrimp, yam, crabmeat, avocado, cucumber "},
-        {"id" : 6, "name" : "Red Dragon Roll", "price" : 17, "image" : "reddragonroll.jpg", "description" : "Dynamite roll base topped with salmon"},
+        {"id" : 6, "name" : "Red Dragon Roll", "price" : 17, "image" : "reddragonroll.jpg", "description" : "Dynamite roll base topped with salmon"}
 
     ]
