@@ -1,0 +1,9 @@
+[
+        {"id" : 1, "name" : "California Roll", "price" : 7, "image" : "caliroll.jpeg", "description" : "Crabmeat, avocado, cucumber"},
+        {"id" : 2, "name" : "Spicy Salmon Roll", "price" : 10, "image" : "salmonroll.jpeg", "description" : "Spicy sauce with salmon, avocado, cucumber"},
+        {"id" : 3, "name" : "Spicy Tuna Roll", "price" : 11, "image" : "tunaroll.jpeg", "description" : "Spicy sauce with tuna, avocado, cucumber"},
+        {"id" : 4, "name" : "Mango Roll", "price" : 10, "image" : "mangoroll.jpeg", "description" : "California base topped with Mango"},
+        {"id" : 5, "name" : "Dynamite Roll", "price" : 13, "image" : "dynamiteroll.jpeg", "description" : "Deep fried shrimp, yam, crabmeat, avocado, cucumber "},
+        {"id" : 6, "name" : "Red Dragon Roll", "price" : 17, "image" : "reddragonroll.jpeg", "description" : "Dynamite roll base topped with salmon"},
+
+    ]
